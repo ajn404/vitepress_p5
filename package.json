@@ -5,5 +5,13 @@
   "main": "index.js",
   "repository": "https://github.com/ajn404/vitepress_p5.git",
   "author": "ajn404",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.1"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs --port 3030"
+  }
 }
