@@ -1,0 +1,9 @@
+{
+  "name": "ngm-vitepress-p5",
+  "version": "1.0.0",
+  "description": "vitepress build vue3 and p5",
+  "main": "index.js",
+  "repository": "https://github.com/ajn404/vitepress_p5.git",
+  "author": "ajn404",
+  "license": "MIT"
+}
